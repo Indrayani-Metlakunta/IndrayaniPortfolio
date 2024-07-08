@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IndrayaniPortfolio-react/static/css/main.79f28129.css",
+    "main.js": "/IndrayaniPortfolio-react/static/js/main.a1a31146.js",
+    "static/media/mylogo.png": "/IndrayaniPortfolio-react/static/media/mylogo.5788698250364cdc0567.png",
+    "static/media/myresume.pdf": "/IndrayaniPortfolio-react/static/media/myresume.01ebd82aaa1968f749cf.pdf",
+    "index.html": "/IndrayaniPortfolio-react/index.html",
+    "main.79f28129.css.map": "/IndrayaniPortfolio-react/static/css/main.79f28129.css.map",
+    "main.a1a31146.js.map": "/IndrayaniPortfolio-react/static/js/main.a1a31146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f28129.css",
+    "static/js/main.a1a31146.js"
+  ]
+}
