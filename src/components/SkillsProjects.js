@@ -218,6 +218,16 @@ export default function SkillsProjects() {
                             <FrameworkTag skill={'Redux'} />
                         </Wrap>
                     </Box>
+                    <Box my={5}>
+                        <Heading textAlign={'start'} as='h4' fontSize={'lg'}> Generative AI & LLMs</Heading>
+                        <Box orientation='horizontal' bgColor='gray.300' my={2} height={0.2} />
+                        <Wrap>
+                            <ToolTag skill={'LangChain'} />
+                            <ToolTag skill={'GPT-4'} />
+                            <ToolTag skill={'Transformed Models'} />
+                            <ToolTag skill={'Open API'} />
+                        </Wrap>
+                    </Box>
 
                     <Box my={5}>
                         <Heading textAlign={'start'} as='h4' fontSize={'lg'}> Data Processing & AI Libraries</Heading>

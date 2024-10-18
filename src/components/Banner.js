@@ -17,12 +17,12 @@ export default function Banner() {
                         <Heading textAlign={'center'}>Indrayani</Heading>
 
                         <Text fontSize={'sm'} textAlign='center'>
-                            A passionate Full Stack Developer with a knack for blending <strong>DESIGN</strong> and <strong>FUNCTIONALITY</strong>.
+                        A dedicated Software Developer with a strong foundation in Generative AI and LLMs, focused on building impactful solutions.
                         </Text>
 
                         <VStack my={4}>
-                            <Tag px={5} variant={'subtle'} colorScheme='primary'>Full Stack</Tag>
-                            <Tag px={5} variant={'subtle'} colorScheme='primary'>UI/UX</Tag>
+                            <Tag px={5} variant={'subtle'} colorScheme='primary'>Software Development</Tag>
+                            <Tag px={5} variant={'subtle'} colorScheme='primary'>Generative AI</Tag>
                         </VStack>
                         <Box orientation='horizontal' bgColor='gray.300' my={4} height={0.2} />
                         {/* Icons */}

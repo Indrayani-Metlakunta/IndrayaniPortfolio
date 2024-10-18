@@ -9,9 +9,7 @@ export default function CTA() {
                 <Stack spacing={{ base: '4', md: '5' }} align="center">
                     <Heading size={useBreakpointValue({ base: 'lg', md: 'xl' , lg : '2xl' })} fontWeight='800' color={'primary.800'}>Let's connect and build something amazing!</Heading>
                     <Text color="gray.700" maxW="2xl" textAlign="center" fontSize="md">
-                    As a versatile web developer with a Master’s in Information Systems and a Bachelor's in Computer Science, I blend frontend aesthetics with backend logic. Proficient in HTML, CSS, JavaScript, and React for dynamic, responsive websites, I also excel in Node.js, Express.js, and SQL for robust backend systems.                    <br/>
-                    <br />
-                    </Text>
+                    As a Software Developer with expertise in Generative AI, I create impactful AI-driven solutions. Proficient in Python and Java, I work with frameworks like LangChain and TensorFlow. I also excel in React.js and Next.js for dynamic front-end development and robust backend systems using Node.js and Express.js.                    </Text>
                 </Stack>
                 <Stack spacing="3" direction={{ base: 'column', sm: 'row' }} justify="center">
                     <Button as='a' variant={'ghost'} size='lg' bg={'primary.800'} color='white'
